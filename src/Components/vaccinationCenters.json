@@ -1,7 +1,6 @@
-
-{  
-    "vaccinationCenters" : [
-    {
+{
+    "vaccinationCenters": [
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 1,
@@ -11,8 +10,8 @@
         "latitude": 38.739767437995255,
         "longitude": -9.168464371586904,
         "phone": 351217211800
-    },
-    {
+      },
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 2,
@@ -22,8 +21,8 @@
         "latitude": 38.7178479237832,
         "longitude": -9.152000793759314,
         "phone": 351213947310
-    },
-    {
+      },
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 3,
@@ -33,8 +32,8 @@
         "latitude": 38.772270855361,
         "longitude": -9.161110702426129,
         "phone": 351217527110
-    },
-    {
+      },
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 4,
@@ -44,8 +43,8 @@
         "latitude": 38.71522832036849,
         "longitude": -9.130471858251557,
         "phone": 351218806000
-    },
-    {
+      },
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 5,
@@ -55,8 +54,8 @@
         "latitude": 38.75067186407143,
         "longitude": -9.19431806009733,
         "phone": 351217125194
-    },
-    {
+      },
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 6,
@@ -66,8 +65,8 @@
         "latitude": 38.711875357659345,
         "longitude": -9.161902200581153,
         "phone": 351213931250
-    },
-    {
+      },
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 7,
@@ -77,8 +76,8 @@
         "latitude": 38.72427471484632,
         "longitude": -9.134574844757106,
         "phone": 351218164100
-    },
-    {
+      },
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 8,
@@ -88,8 +87,8 @@
         "latitude": 38.73685984381174,
         "longitude": -9.130928064357505,
         "phone": 351218105000
-    },
-    {
+      },
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 9,
@@ -99,8 +98,8 @@
         "latitude": 38.705769230395404,
         "longitude": -9.19444349447088,
         "phone": 351213600260
-    },
-    {
+      },
+      {
         "country": "Portugal",
         "city": "Lisbon",
         "id": 10,
@@ -110,6 +109,446 @@
         "latitude": 38.706168917181515,
         "longitude": -9.185125229416608,
         "phone": 351213630130
-    }
-]
-}
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 41,
+        "center": "Medical Center Europe",
+        "address": "44-46 Rue d'Amsterdam, 75009 Paris",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/41_p88y3k.jpg",
+        "latitude": 48.87840416403721,
+        "longitude": 2.327581131836391,
+        "phone": 33142819333
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 42,
+        "center": "Medical Center Cosem Saint-Lazare",
+        "address": "13 Rue de la Pépinière, 75008 Paris",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/42_rep8cd.jpg",
+        "latitude": 48.87499343639248,
+        "longitude": 2.322794573960568,
+        "phone": 33158229000
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 43,
+        "center": "American Hospital of Paris",
+        "address": "63 Boulevard Victor Hugo, 92200 Neuilly-sur-Seine",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/43_xyikni.jpg",
+        "latitude": 48.89263303869075,
+        "longitude": 2.2726236292771156,
+        "phone": 33146412525
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 44,
+        "center": "Hôpital Saint-Louis",
+        "address": "1 Avenue Claude Vellefaux, 75010 Paris",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/44_q8bigd.jpg",
+        "latitude": 48.87360311960176,
+        "longitude": 2.369889276044022,
+        "phone": 33142494949
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 45,
+        "center": "Hôpital Lariboisière",
+        "address": "2 Rue Ambroise Paré, 75010 Paris",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/45_lhyhhg.jpg",
+        "latitude": 48.88320029609331,
+        "longitude": 2.3533687008631947,
+        "phone": 33149956565
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 46,
+        "center": "Hôpital Européen Georges-Pompidou",
+        "address": "20 Rue Leblanc, 75015 Paris",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/46_m7pmpv.jpg",
+        "latitude": 48.83849193313452,
+        "longitude": 2.27305149452642,
+        "phone": 33156092000
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 47,
+        "center": "Hôpital Cochin",
+        "address": "27 Rue du Faubourg Saint-Jacques, 75014 Paris",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/47_psq651.jpg",
+        "latitude": 48.8370512428814,
+        "longitude": 2.340276641467016,
+        "phone": 33158414141
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 48,
+        "center": "Hôpital Tenon",
+        "address": "4 Rue de la Chine, 75020 Paris",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/48_r8vhge.jpg",
+        "latitude": 48.866220398632215,
+        "longitude": 2.401960928242455,
+        "phone": 33156017000
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 49,
+        "center": "Hôpital Rothschild",
+        "address": "5 Rue Santerre, 75012 Paris",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615310396/49_klmexh.jpg",
+        "latitude": 48.84315050885898,
+        "longitude": 2.39842822168438,
+        "phone": 33140193000
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "id": 50,
+        "center": "Hôpital Fernand Widal",
+        "address": "200 Rue du Faubourg Saint-Denis, 75010 Paris",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/49_idmo0s.jpg",
+        "latitude": 48.88173108248309,
+        "longitude": 2.358484065296031,
+        "phone": 33140054545
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 31,
+        "center": "Martin Luther Hospital",
+        "address": "Caspar-Theyß-Straße 27-31, 14193 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/31_xa8vsn.jpg",
+        "latitude": 52.49470330132854,
+        "longitude": 13.29102686158641,
+        "phone": 493089550
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 32,
+        "center": "Franziskus-Krankenhaus",
+        "address": "Budapester Str. 15-19, 10787 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/32_pldrrl.jpg",
+        "latitude": 52.51014929265509,
+        "longitude": 13.34498628033378,
+        "phone": 493026380
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 33,
+        "center": "Vivantes Hospital Am Urban",
+        "address": "Dieffenbachstraße 1, 10967 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/33_aiq0do.jpg",
+        "latitude": 52.498023757242144,
+        "longitude": 13.410520927912009,
+        "phone": 4930130210
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 34,
+        "center": "DRK Kliniken Berlin",
+        "address": "Spandauer Damm 130, 14050 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/34_h29elx.jpg",
+        "latitude": 52.52385239211206,
+        "longitude": 13.278585536331123,
+        "phone": 493030354000
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 35,
+        "center": "Malteser-Krankenhaus Berlin-Charlottenburg",
+        "address": "Pillkaller Allee 1, 14055 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/35_m0jlty.jpg",
+        "latitude": 52.51155493533742,
+        "longitude": 13.250293047342767,
+        "phone": 4930300010
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 36,
+        "center": "Bundeswehrkrankenhaus Berlin",
+        "address": "Scharnhorststraße 13, 10115 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/36_kp7xd3.jpg",
+        "latitude": 52.53878039144292,
+        "longitude": 13.369525684691487,
+        "phone": 493028412289
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 37,
+        "center": "DRK Kliniken Berlin | Mitte",
+        "address": "Drontheimer Str. 39 – 40, 13359 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/37_ulmmiv.jpg",
+        "latitude": 52.56107512448801,
+        "longitude": 13.377609253316162,
+        "phone": 493030356000
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 38,
+        "center": "Caritas-Klinik Maria Heimsuchung Berlin-Pankow",
+        "address": "Breite Str. 46/47, 13187 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/38_onbpuf.jpg",
+        "latitude": 52.57511323714605,
+        "longitude": 13.413985311543172,
+        "phone": 4930475170
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 39,
+        "center": "Park-Klinik Weißensee",
+        "address": "Schönstraße 80, 13086 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/39_apsofr.jpg",
+        "latitude": 52.558617993167495,
+        "longitude": 13.45122746796166,
+        "phone": 493096280
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "id": 40,
+        "center": "Sana Kliniken Berlin-Brandenburg",
+        "address": "Fanningerstraße 32, 10365 Berlin, Germany",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/40_qoofkf.jpg",
+        "latitude": 52.517177057004545,
+        "longitude": 13.495687094633643,
+        "phone": 493055183510
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 11,
+        "center": "The 30th City Clinical Hospital",
+        "address": "220131, Minsk city, Koltsova street, 53/2",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/11_rgsnro.jpg",
+        "latitude": 53.951515,
+        "longitude": 27.60198,
+        "phone": 375445997237
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 12,
+        "center": "The 17th City Clinical Hospital",
+        "address": "220047, Minsk city, Gerasimenko street 49",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/12_kye1aa.jpg",
+        "latitude": 53.88465387321257,
+        "longitude": 27.68034604220919,
+        "phone": 375172589770
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 13,
+        "center": "The 15th City Clinical Hospital",
+        "address": "Roza Luxembourg street 112/26, 220036, г. Минск",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/13_fnn71e.jpg",
+        "latitude": 53.89440215023758,
+        "longitude": 27.513929473004417,
+        "phone": 375172861856
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 14,
+        "center": "The 19th City Clinical Hospital",
+        "address": "220114 Minsk city, Independence Avenue, 119",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/14_hbboli.jpg",
+        "latitude": 53.93456243587342,
+        "longitude": 27.635966569198814,
+        "phone": 375172856581
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 15,
+        "center": "8-я городская клиническая поликлиника",
+        "address": "ул. Никифорова 3, Минск 220141",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/15_ry4die.jpg",
+        "latitude": 53.93963281149143,
+        "longitude": 27.68916586919896,
+        "phone": 375173952865
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 16,
+        "center": "The 28th City Clinical Hospital",
+        "address": "Gintovta street 28, Minsk city 223016",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/16_zct3vx.jpg",
+        "latitude": 53.95087916382273,
+        "longitude": 27.677459628717912,
+        "phone": 375172704411
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 17,
+        "center": "The 3rd City Clinical Hospital",
+        "address": "Voronyanskogo street 13/2, Minsk city 220007",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/17_yibyur.jpg",
+        "latitude": 53.878957680195974,
+        "longitude": 27.544433388216838,
+        "phone": 375172700577
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 18,
+        "center": "The 10th City Clinical Hospital",
+        "address": "Sukharevskaya street 19, Minsk",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/18_lkerzh.jpg",
+        "latitude": 53.89126311866921,
+        "longitude": 27.431184462412126,
+        "phone": 375173690698
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 19,
+        "center": "The 40th City Clinical Hospital",
+        "address": "Lutsinskya street 3, Minsk",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/19_e0vgmp.jpg",
+        "latitude": 53.93227314190272,
+        "longitude": 27.440361126869462,
+        "phone": 375173591615
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "id": 20,
+        "center": "The 9th City Clinical Hospital",
+        "address": "Sherbakova street 1, Minsk",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/20_pzp7t3.jpg",
+        "latitude": 53.88348433074933,
+        "longitude": 27.608312106854406,
+        "phone": 375172723220
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 21,
+        "center": "American Medical Centers",
+        "address": "Berdychivska Street, 1, Kyiv",
+        "img": "https://www.kyivpost.com/wp-content/uploads/2012/11/22/p17ckstdraej98v0n8o153912df4/original.jpg",
+        "latitude": 50.4608576696378,
+        "longitude": 30.479761829521042,
+        "phone": 380674804525
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 22,
+        "center": "Healthy&Happy",
+        "address": "Saksahanskoho Street, 39A, Kyiv",
+        "img": "https://gvult.com/wp-content/uploads/posts/2015-04/poliklinika-hels-end-heppi-healthy-and-happy_logo.jpg",
+        "latitude": 50.435866953382494,
+        "longitude": 30.512036383787052,
+        "phone": 380445010203
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 23,
+        "center": "Universum Clinic",
+        "address": "Volodymyra Vynnychenka Street, 4, Kyiv",
+        "img": "https://arrhythmia.center/wp-content/uploads/2017/10/Universum-Clinic-Universum-Klinik-2.jpg",
+        "latitude": 50.45512267409863,
+        "longitude": 30.50070357799465,
+        "phone": 380445995405
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 24,
+        "center": "Kyiv City Clinical Hospital №14",
+        "address": "Zoolohichna Street, 3, Kyiv",
+        "img": "https://investinkyiv.gov.ua/uploads/photos/oberig-4ae5deb189.jpg",
+        "latitude": 50.45769333348123,
+        "longitude": 30.459889283788208,
+        "phone": 380444836917
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 25,
+        "center": "Kyiv City Clinical Hospital №18",
+        "address": "Tarasa Shevchenko Boulevard, 17, Kyiv",
+        "img": "https://f.guide.kyivcity.gov.ua/location/9976/Zmtee.jpg",
+        "latitude": 50.44443531016934,
+        "longitude": 30.50997415398474,
+        "phone": 380442354056
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 26,
+        "center": "Kyiv City Clinical Hospital №4",
+        "address": "Solomianska Street, 17, Kyiv",
+        "img": "https://images.unian.net/pb/009/thumb_files/h_500/966992.JPG",
+        "latitude": 50.42428517657655,
+        "longitude": 30.48209423677673,
+        "phone": 380442497856
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 27,
+        "center": "Kyiv City Clinical Hospital №1",
+        "address": "Kharkivs’ke Highway, 121, Kyiv",
+        "img": "https://images.unian.net/pb/007/thumb_files/h_500/789126.jpg",
+        "latitude": 50.41397956286164,
+        "longitude": 30.66586962611437,
+        "phone": 380445646534
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 28,
+        "center": "Kyiv City Clinical Hospital №11",
+        "address": "Rohozivska Street, 6, Kyiv",
+        "img": "http://kmkl11.com.ua/wp-content/uploads/2018/10/12946.jpg",
+        "latitude": 50.45209707209044,
+        "longitude": 30.67597164417898,
+        "phone": 380445688088
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 29,
+        "center": "Kyiv City Clinical Hospital №17",
+        "address": "Laboratornyi Lane, 18, Kyiv",
+        "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615546560/29_idxyvw.jpg",
+        "latitude": 50.42826300910577,
+        "longitude": 30.52800349727929,
+        "phone": 380445281598
+      },
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "id": 30,
+        "center": "Kyiv City Clinical Hospital №10",
+        "address": "Holosiivskyi prospekt, 59b, Kyivv",
+        "img": "https://f.guide.kyivcity.gov.ua/location/9972/iblMd.jpg",
+        "latitude": 50.435540903996454,
+        "longitude": 30.301280904979148,
+        "phone": 380445255319
+      }
+    ]
+  }
