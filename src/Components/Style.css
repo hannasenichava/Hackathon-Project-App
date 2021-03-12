@@ -33,6 +33,9 @@ hr{
     padding: 10px;
     text-decoration: none;
 }
+.link-text:hover{
+    color: red;
+}
 
 .footer{
     bottom: 10px;
@@ -87,3 +90,59 @@ hr{
     object-fit: cover;
   }
   
+  /* Contact form*/
+
+  @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+form,
+input,
+textarea,
+button {
+    font-family: 'Redressed', cursive;
+    font-size: large;
+}
+
+.form {
+    width: 200vh;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size:30px;
+}
+.form > input,textarea{
+    width: 250px;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 15px;
+    border: 2px solid black;
+    outline: none;
+}
+.form > input:focus,
+textarea:focus {
+  border: 2px solid rgb(250, 20, 20);
+}
+.form > input:hover,
+textarea:hover{
+    box-shadow: 0 0 25px rgba(255, 12, 12, 0.8);
+}
+.form > button:hover{
+    box-shadow: 0 0 25px rgba(97, 92, 92, 0.8)
+}
+.form > button {
+    padding: 20px;
+    width: 300px;
+    border-radius: 12px;
+    outline: none;
+    background-color:rgb(250, 20, 20);
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+

@@ -1,9 +1,24 @@
-import React from "react";
+import React from 'react'
 
-export default function Contact() {
+const Contact = () => {
   return (
-    <div>
-      <h1>Contact Form</h1>
-    </div>
-  );
+    <form className = "form">
+
+      <h1>Contact us 💉</h1>
+    
+      <label>Name</label>
+      <input placeholder = "Name"/>
+
+      <label>Email</label>
+      <input placeholder = "Email"/>
+
+      <label>Message</label>
+      <textarea placeholder = "Message"/>
+
+      <button type="submit">Submit</button>
+
+    </form>
+  )
 }
+
+export default Contact
